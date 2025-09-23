@@ -3,8 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Helmet } from 'react-helmet-async';
 import LandingPage from './pages/LandingPage';
 
-
-export function App() {
+const App = () => {
   const { t } = useTranslation();
   return (
     <>
@@ -33,3 +32,4 @@ export function App() {
 }
 
 
+export default App
