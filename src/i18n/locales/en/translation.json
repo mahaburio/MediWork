@@ -1,0 +1,127 @@
+{
+  "seo": {
+    "title": "MediWork — Occupational Health & Safety (SaaS)",
+    "description": "Digitize Occupational Health & Safety with MediWork. Centralized, compliant, and data-driven platform by LoHiDi® Group.",
+    "keywords": "MediWork, LoHiDi, occupational health, safety, HSE, compliance, SaaS"
+  },
+  "tagline": "Centralized health. Optimized safety.",
+  "nav": {
+    "demo": "Book a Demo",
+    "contact": "Contact Us",
+    "pricing": "Pricing",
+    "language": "FR"
+  },
+  
+  "hero": {
+    "title": "Digitize Occupational Health & Safety with MediWork℠",
+    "subtitle": "Centralize HSE workflows, ensure compliance, and unlock data-driven decisions.",
+    "cta_demo": "Book a Demo",
+    "cta_contact": "Contact Us"
+  },
+  "sections": {
+    "problem_title": "The Problem",
+    "problem_intro": "In many companies, managing occupational health and safety (OHS) remains fragmented, manual, and inefficient.",
+    "problem_points": [
+      "Processes scattered across paper, emails, and spreadsheets.",
+      "Lack of traceability and visibility into employee health.",
+      "High non-compliance risks and poor management of OHS obligations.",
+      "Productivity loss due to poorly tracked medical visits and sick leaves."
+    ],
+    "solution_title": "Our Solution",
+    "solution_text": "MediWork℠ is a modern SaaS platform that centralizes all OHS activities in a single, secure, and scalable digital space.",
+    "solution_points": [
+      "Complete medical follow-up for employees and dependents.",
+      "Integrated management of medical infrastructures (clinics, labs, pharmacies, maternity wards).",
+      "Digital management of prevention programs (malaria, HIV/AIDS, cancers, occupational risks).",
+      "Analytical dashboards for leadership, HR, and OHS managers."
+    ],
+    "features_title": "Features",
+    "features_cards": [
+      {"id":"employees","title":"Employees & Dependents","bullets":["Track medical visits (onboarding, periodic, return).","Manage occupational diseases and reassignments.","Administer sick leaves and return-to-work."]},
+      {"id":"professionals","title":"Health Professionals","bullets":["Digital tools for doctors, nurses, midwives.","Traceability of care, prescriptions, and exams.","Real-time medical performance indicators."]},
+      {"id":"infrastructure","title":"Medical Infrastructures","bullets":["Digitized inventory of clinics, labs, pharmacies.","Track maternity wards, ambulances, critical equipment.","Proactive maintenance and stock management."]},
+      {"id":"environment","title":"Work Environment","bullets":["Monitor exposures: noise, heat, vibrations, vapors.","Accident investigations with automated reports.","Job studies and ergonomic recommendations."]},
+      {"id":"employers","title":"Employers & HR","bullets":["Centralized OHS compliance dashboards.","Consolidated reporting across sites and companies.","Real-time health and safety indicators."]},
+      {"id":"public_health","title":"Public Health Programs","bullets":["Campaigns: malaria, HIV/AIDS, cancers.","Screening, prevention, and community awareness.","Tracked distribution of nets, kits, and condoms."]},
+      {"id":"analytics","title":"Analytics & Reporting","bullets":["Real-time health and safety KPIs.","Automatic monthly and annual reports.","Consolidated comparisons by site or sector."]},
+      {"id":"security","title":"Security & Compliance","bullets":["User access control and strong authentication.","Encryption and traceability of medical data.","Alignment with international OHS standards."]},
+      {"id":"integrations","title":"Interoperability & Integrations","bullets":["Connect with hospital and clinic systems.","Integrate with insurers, mutuals, and partners.","Open APIs for extensions and third-party services."]}
+    ],
+    "features_list": [
+      "Employees & dependents: medical visits (onboarding, routine, return), occupational diseases, sick leaves, reassignment.",
+      "Health professionals: digital tools for doctors, nurses, midwives, technicians (agenda, traceability, indicators).",
+      "Infrastructures: digitized inventory of clinics, maternity wards, labs, pharmacies, ambulances.",
+      "Work environment: exposures (noise, heat, vibrations, vapors, pesticides) and accident investigations.",
+      "Public health programs: malaria, HIV/AIDS, cancers — screening, prevention, awareness, nets, condoms distribution.",
+      "Employers & HR: dashboards, reporting, legal compliance, consolidated indicators.",
+      "Analytics & reporting: real-time KPIs and automatic monthly/annual reports per site or company."
+    ],
+    "screenshots_title": "Product Preview",
+    "benefits_title": "Benefits",
+    "pricing_title": "Pricing",
+    "testimonials_title": "Trusted by Teams",
+    "cta_title": "Start transforming your workplace health & safety today.",
+    "footer_about": "About LoHiDi® Group",
+    "footer_legal": "Legal",
+    "footer_privacy": "Privacy",
+    "footer_contact": "Contact"
+  },
+  "benefits": [
+    "Reduce non-compliance risks with full traceability.",
+    "Improve employee health and safety via proactive prevention.",
+    "Gain productivity with centralized digital workflows.",
+    "Optimize decision-making with analytics and interactive dashboards.",
+    "Reduce inequalities in access to care between urban and rural areas."
+  ],
+  "pricing": {
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "cta": "Get Started",
+    "tiers": [
+      {
+        "title": "Starter (SMEs & NGOs)",
+        "description": "Essential features to manage OHS for 50–200 employees.",
+        "price": "on request"
+      },
+      {
+        "title": "Professional (Mid-market)",
+        "description": "Complete OHS toolkit, HR dashboards, automated reporting.",
+        "price": "from $99 / month"
+      },
+      {
+        "title": "Enterprise (Large companies & groups)",
+        "description": "Tailored solution, advanced integrations (API, insurance, mutuals), dedicated support.",
+        "price": "custom pricing"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "With MediWork, we finally have a clear view of employee health. Compliance is easier and HR saves precious time.",
+      "author": "HR Manager, Agribusiness Company"
+    },
+    {
+      "quote": "Digitizing our medical service improved risk prevention and reduced absences.",
+      "author": "Occupational physician, Industrial Group"
+    },
+    {
+      "quote": "A complete solution adapted to the African context. We centralized OHS across all our sites.",
+      "author": "HSE Director, Multinational"
+    }
+  ],
+  "footer": {
+    "about": "About LoHiDi® Group",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "email": "contact@lohidi.com",
+    "cta": "Ready to modernize your OHS? → Book a demo",
+    "seo": "Occupational health | Workplace safety | OHS digitization Ivory Coast | SaaS OHS platform"
+  }
+  ,
+  "cta": {
+    "sticky_text": "Ready to modernize OHS?"
+  }
+}
+
+

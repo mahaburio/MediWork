@@ -1,0 +1,312 @@
+{
+  "seo": {
+    "title": "MediWork℠ : Digitaliser la santé au travail, renforcer la performance",
+    "description": "Digitalisez la Santé et Sécurité au Travail avec MediWork. Plateforme centralisée, conforme et pilotée par les données, par LoHiDi® Group.",
+    "keywords": "MediWork, LoHiDi, santé au travail, sécurité, SST, conformité, SaaS"
+  },
+  "tagline": "Santé centralisée. Sécurité optimisée.",
+  "nav": {
+    "demo": "Demander une démo",
+    "contact": "Nous contacter",
+    "pricing": "Tarifs",
+    "language": "EN"
+  },
+  "menu": {
+    "products": {
+      "label": "Produits",
+      "platform": "Plateforme MediWork",
+      "platformTitle": "Produits MediWork - Plateforme MediWork",
+      "mobile": "Application Mobile",
+      "mobileTitle": "Produits MediWork - Application Mobile",
+      "web": "Logiciel Web SaaS",
+      "webTitle": "Produits MediWork - Logiciel Web SaaS"
+    },
+    "solutions": {
+      "label": "Solutions",
+      "employees": "Gestion des employés & ayants droit",
+      "employeesTitle": "Solutions MediWork - Gestion des employés et ayants droit",
+      "reporting": "Reporting & Tableaux de bord",
+      "reportingTitle": "Solutions MediWork - Reporting et tableaux de bord",
+      "incidents": "Gestion des incidents & conformité",
+      "incidentsTitle": "Solutions MediWork - Incidents et conformité",
+      "programs": "Programmes de prévention (VIH/SIDA, Paludisme, Cancers)",
+      "programsTitle": "Solutions MediWork - Programmes de prévention"
+    },
+    "services": {
+      "label": "Services",
+      "support": "Support & Assistance technique",
+      "supportTitle": "Services MediWork - Support & assistance",
+      "training": "Formation & Accompagnement",
+      "trainingTitle": "Services MediWork - Formation & accompagnement",
+      "integration": "Intégration & Personnalisation",
+      "integrationTitle": "Services MediWork - Intégration & personnalisation"
+    },
+    "industries": {
+      "label": "Industries",
+      "enterprise": "Entreprises & Multinationales",
+      "enterpriseTitle": "Industries MediWork - Entreprises et multinationales",
+      "sme": "PME & ONG",
+      "smeTitle": "Industries MediWork - PME et ONG",
+      "public": "Collectivités & Institutions publiques",
+      "publicTitle": "Industries MediWork - Collectivités et institutions publiques"
+    },
+    "about": {
+      "label": "À propos",
+      "story": "Notre histoire",
+      "storyTitle": "MediWork - Notre histoire",
+      "team": "Équipe & expertise",
+      "teamTitle": "MediWork - Équipe et expertise",
+      "blog": "Blog & ressources",
+      "blogTitle": "MediWork - Blog et ressources",
+      "contact": "Contact",
+      "contactTitle": "MediWork - Contact"
+    }
+  },
+  "hero": {
+    "title": "Digitalisez la Santé et Sécurité au Travail avec MediWork℠",
+    "subtitle": "Centralisez vos données SST, optimisez vos processus, réduisez les risques et assurez la conformité réglementaire.",
+    "cta_demo": "Demander une démo",
+    "cta_contact": "Nous contacter"
+  },
+  "sections": {
+    "problem_title": "Le Problème",
+    "problem_intro": "Dans la plupart des organisations, la gestion de la santé et sécurité au travail (SST) reste dispersée, lente et peu fiable.",
+    "problem_points": [
+      "Processus éclatés entre papiers, emails et tableurs manuels.",
+      "Manque de visibilité et de traçabilité sur la santé des employés.",
+      "Risques élevés de non-conformité et gestion inefficace des obligations.",
+      "Baisse de productivité liée aux visites médicales et arrêts de travail."
+    ],
+    "solution_title": "Notre Solution",
+    "solution_text": "MediWork℠ est une plateforme SaaS sécurisée qui centralise toutes les activités de SST dans un espace numérique unique et évolutif.",
+    "solution_points": [
+      "Suivi médical digitalisé des employés et ayants droit.",
+      "Gestion intégrée des infrastructures médicales et pharmacies.",
+      "Pilotage numérique des programmes de prévention et de santé.",
+      "Tableaux de bord analytiques pour RH, managers et responsables SST."
+    ],
+    "features_title": "Fonctionnalités",
+    "features_cards": [
+      {
+        "id": "employees",
+        "title": "Employés & Ayants droit",
+        "bullets": [
+          "Suivi digital des visites médicales : embauche, périodiques, reprise.",
+          "Gestion centralisée des arrêts maladie et reclassements.",
+          "Traçabilité complète des maladies professionnelles."
+        ]
+      },
+      {
+        "id": "professionals",
+        "title": "Professionnels de santé",
+        "bullets": [
+          "Outils digitaux pour médecins, infirmiers et sages-femmes.",
+          "Traçabilité des soins, prescriptions et examens.",
+          "Indicateurs de performance médicale en temps réel."
+        ]
+      },
+      {
+        "id": "infrastructure",
+        "title": "Infrastructures médicales",
+        "bullets": [
+          "Inventaire digitalisé des dispensaires, labos et pharmacies.",
+          "Suivi des maternités, ambulances et équipements critiques.",
+          "Gestion proactive de la maintenance et des stocks."
+        ]
+      },
+      {
+        "id": "environment",
+        "title": "Environnement de travail",
+        "bullets": [
+          "Surveillance des expositions : bruit, chaleur, vibrations, vapeurs.",
+          "Enquêtes d’accidents avec rapports automatisés.",
+          "Études de postes et recommandations ergonomiques."
+        ]
+      },
+      {
+        "id": "employers",
+        "title": "Employeurs & RH",
+        "bullets": [
+          "Tableaux de bord de conformité SST centralisés.",
+          "Reporting consolidé multi-sites et multi-entreprises.",
+          "Indicateurs santé et sécurité en temps réel."
+        ]
+      },
+      {
+        "id": "public_health",
+        "title": "Programmes de santé publique",
+        "bullets": [
+          "Suivi des campagnes : paludisme, VIH/SIDA, cancers.",
+          "Dépistage, prévention et sensibilisation communautaire.",
+          "Distribution tracée de moustiquaires, kits et préservatifs."
+        ]
+      },
+      {
+        "id": "analytics",
+        "title": "Analytique & Reporting",
+        "bullets": [
+          "KPIs santé et sécurité disponibles en temps réel.",
+          "Rapports mensuels et annuels générés automatiquement.",
+          "Comparaisons consolidées par site ou secteur."
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Sécurité & Conformité",
+        "bullets": [
+          "Gestion des accès utilisateurs et authentification forte.",
+          "Chiffrement et traçabilité des données médicales.",
+          "Alignement avec les standards internationaux SST."
+        ]
+      },
+      {
+        "id": "integrations",
+        "title": "Interopérabilité & Intégrations",
+        "bullets": [
+          "Connexion avec systèmes hospitaliers et cliniques.",
+          "Intégration avec mutuelles, assurances et partenaires.",
+          "API ouvertes pour extensions et services tiers."
+        ]
+      }
+    ],
+    "features_list": [
+      "Employés & ayants droit : suivi des visites médicales (embauche, périodiques, reprise), gestion des maladies professionnelles, arrêts maladie et reclassements.",
+      "Professionnels de santé : outils digitaux pour les médecins, infirmiers, sages-femmes et techniciens (agenda, traçabilité, indicateurs).",
+      "Infrastructures : inventaire digitalisé des dispensaires, maternités, laboratoires, pharmacies et ambulances.",
+      "Environnement de travail : suivi des expositions (bruit, chaleur, vibrations, vapeurs, pesticides) et enquêtes d’accidents.",
+      "Programmes de santé publique : paludisme, VIH/SIDA, cancers — dépistage, prévention, sensibilisation, moustiquaires, distribution de préservatifs.",
+      "Employeurs & RH : dashboards, reporting, conformité légale, indicateurs consolidés.",
+      "Analytique & reporting : KPIs en temps réel, génération automatique de rapports mensuels et annuels par site ou entreprise."
+    ],
+    "screenshots_title": "Aperçu du produit",
+    "benefits_title": "Bénéfices",
+    "pricing_title": "Tarifs",
+    "testimonials_title": "Ils nous font confiance",
+    "cta_title": "Transformez dès aujourd'hui la santé et la sécurité de votre entreprise.",
+    "footer_about": "À propos de LoHiDi® Group",
+    "footer_legal": "Mentions légales",
+    "footer_privacy": "Confidentialité",
+    "footer_contact": "Contact"
+  },
+  "benefits": [
+    "Réduire les risques de non-conformité grâce à une traçabilité complète.",
+    "Améliorer la santé et la sécurité des employés avec une prévention proactive.",
+    "Gagner en productivité grâce à des workflows digitaux centralisés et rapides.",
+    "Optimiser la prise de décision avec des tableaux de bord analytiques précis.",
+    "Réduire les inégalités d’accès aux soins entre les zones urbaines et rurales.",
+    "Favoriser l’harmonisation des politiques de santé et sécurité."
+  ],
+  "pricing": {
+    "monthly": "Mensuel",
+    "annual": "Annuel",
+    "cta": "Commencer",
+    "cta_more": "En savoir plus",
+    "cta_start": "Commencer",
+    "tiers": [
+      {
+        "id": "starter",
+        "title": "Starter (PME & ONG)",
+        "tagline": "Idéal pour les petites structures",
+        "description": "Fonctionnalités essentielles pour piloter la santé et sécurité au travail des équipes de 50 à 200 employés.",
+        "price_text": "Prix : sur demande",
+        "details": [
+          "Gestion des visites médicales et arrêts maladie.",
+          "Tableaux de bord de base pour le suivi SST.",
+          "Support email standard."
+        ]
+      },
+      {
+        "id": "pro",
+        "title": "Professionnel (ETI)",
+        "tagline": "Pensé pour la croissance",
+        "description": "Outils complets de gestion SST : tableaux de bord RH, reporting automatisé et suivi analytique en temps réel.",
+        "price_text": "Prix : À partir de 99 $/mois",
+        "price_monthly": 99,
+        "price_annual": 99,
+        "details": [
+          "Dashboards RH et conformité multi-sites.",
+          "Reporting automatisé et analytique en temps réel.",
+          "Support prioritaire par email et chat."
+        ]
+      },
+      {
+        "id": "enterprise",
+        "title": "Entreprise (SOC & GRP)",
+        "tagline": "Sur-mesure pour les organisations complexes",
+        "description": "Solution personnalisée incluant intégrations avancées (API, mutuelles, assurances), support prioritaire et gouvernance SST.",
+        "price_text": "Prix : personnalisé sur besoins",
+        "details": [
+          "API ouvertes, intégrations assurances et mutuelles.",
+          "Support 24/7 et gestionnaire de compte dédié.",
+          "Options avancées de conformité et personnalisation."
+        ]
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Avec MediWork, nous avons enfin une vision claire de la santé de nos employés. La conformité est plus simple et nos RH gagnent un temps précieux.",
+      "author": "Responsable RH, Société Agro-Industrielle"
+    },
+    {
+      "quote": "La digitalisation de notre service médical a permis d’améliorer la prévention des risques et de réduire les absences.",
+      "author": "Médecin du travail, Groupe Industriel"
+    },
+    {
+      "quote": "Une solution complète et adaptée à la réalité africaine. MediWork nous a permis de centraliser la SST sur tous nos sites.",
+      "author": "Directeur HSE, Multinationale"
+    }
+  ],
+  "footer": {
+    "copyright": "© 2025 LoHiDi® Group — Tous droits réservés",
+    "about": "À propos de LoHiDi® Group",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact",
+    "email": "contact@lohidi.com",
+    "cta": "Prêt à moderniser votre SST ? → Demander une démo",
+    "seo": "Santé au travail | Sécurité au travail | Digitalisation SST Côte d’Ivoire | Plateforme SaaS SST"
+  },
+  "cta": {
+    "sticky_text": "Prêt à moderniser votre SST ?"
+  },
+  "demoForm": {
+    "title": "Demandez une démo personnalisée de MediWork℠",
+    "subtitle": "Quelques informations suffisent pour préparer une démonstration adaptée à vos besoins.",
+    "formAria": "Formulaire de demande de démo",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email professionnel",
+    "phone": "Téléphone",
+    "company": "Nom de l’entreprise",
+    "companySize": "Taille de l’entreprise",
+    "sector": "Secteur d’activité",
+    "country": "Pays / Région",
+    "choosePlan": "Choisir un pack",
+    "planEssential": "Sécurité Essentielle",
+    "planCompliance": "Conformité Intégrale",
+    "planEssentialDesc": "Le pack Sécurité Essentielle est conçu pour les organisations SMS jusqu’à 50 personnes.",
+    "planComplianceDesc": "Le pack Conformité Intégrale est destiné aux organisations de plus de 50 personnes ou ayant des exigences détaillées de conformité.",
+    "help": "Comment pouvons-nous vous aider ?",
+    "ctaPrimary": "Demander ma démo",
+    "ctaSecondary": "Nous contacter directement",
+    "notRobot": "Je ne suis pas un robot",
+    "validationError": "Veuillez remplir les champs obligatoires et fournir un email valide.",
+    "thanksTitle": "Merci !",
+    "thanksText": "Notre équipe vous contactera sous 24h pour planifier votre démonstration.",
+    "sectors": {
+      "agro": "Agro-industrie",
+      "manufacturing": "Industrie manufacturière",
+      "construction": "BTP / Construction",
+      "energy": "Énergie / Pétrole & Gaz",
+      "mining": "Mines & Carrières",
+      "transport": "Transport & Logistique",
+      "telecom": "Télécoms & TIC",
+      "banking": "Banque & Assurances",
+      "retail": "Commerce & Distribution",
+      "public": "Administration publique"
+    }
+  }
+}
+
+

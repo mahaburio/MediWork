@@ -1,1 +1,47 @@
+* {
+  scrollbar-width: thin;
+}
+
 @import "tailwindcss";
+
+@theme {
+  /* Font */
+  /* --font-primary: "Urbanist", sans-serif;
+  --font-secondary: "Poppins", sans-serif; */
+
+  /* Color */
+  --color-primary: #72d3a8;
+  --color-secondary: #1e2c69;
+  --color-bg: #eff3f6;
+  /* --color-green: #376e50;
+  --color-black: #4c4c4c;
+  --color-black-gray: #404040;
+  --color-deep-black: #1d1d1d;
+  --color-gray-30: #ececec;
+  --color-gray-40: #f4f4f4; */
+}
+
+.navbar {
+  backdrop-filter: blur(5px) saturate(180%) brightness(150%) blur(10px);
+  background-color: #222e;
+}
+
+.bg-rainbow-highlights {
+  background: linear-gradient(
+    var(--angle, 170deg),
+    #06acf1 var(--stop-1, 10%),
+    currentColor var(--stop-2, 30%),
+    #e600c2 var(--stop-3, 41%),
+    currentColor var(--stop-3, 41%),
+    currentColor var(--stop-4, 70%),
+    #ffc837 var(--stop-5, 82%),
+    #00cc3d var(--stop-6, 90%)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn:hover span {
+  transform: translateX(30%);
+}
