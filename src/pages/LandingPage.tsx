@@ -1,6 +1,7 @@
 // import HeroSection from "../components/HeroSection";
 import { Navbar } from "../components/Navbar";
 import { motion } from "framer-motion";
+import { t } from "i18next";
 
 import { TiArrowRightThick } from "react-icons/ti";
 
@@ -94,15 +95,33 @@ const LandingPage = () => {
           </div>
         </div>
 
-        {/* Problems Solution */}
-        <section className="min-h-screen">
+        {/* Problem & Solution */}
+      <section className="max-w-7xl mx-auto px-4 py-16 grid md:grid-cols-2 gap-10">
+        <div>
+          <h2 className="text-2xl font-semibold text-slate-900">{t('sections.problem_title')}</h2>
+          <p className="mt-3 text-slate-700">{t('sections.problem_intro')}</p>
+          <ul className="mt-4 space-y-2 list-disc list-inside text-slate-700">
+            {(t('sections.problem_points', { returnObjects: true }) as string[]).map((p) => (
+              <li key={p}>{p}</li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h2 className="text-2xl font-semibold text-slate-900">{t('sections.solution_title')}</h2>
+          <p className="mt-4 text-slate-700">{t('sections.solution_text')}</p>
+          <ul className="mt-4 space-y-2 list-disc list-inside text-slate-700">
+            {(t('sections.solution_points', { returnObjects: true }) as string[]).map((p) => (
+              <li key={p}>{p}</li>
+            ))}
+          </ul>
+        </div>
+      </section>
 
-        </section>
 
         {/* Footer */}
 
         <footer>
-          
+              
         </footer>
       </div>
     </>
